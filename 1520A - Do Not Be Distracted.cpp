@@ -17,7 +17,6 @@ using namespace __gnu_pbds;
 typedef long long int ll;
 typedef unsigned long long int  llu;
 
-// PRIME NUMBER TEST//
 bool prime(int n)
 {
     if(n<2)return false;
